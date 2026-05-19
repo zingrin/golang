@@ -14,9 +14,7 @@ var(
 
 // multiple
 
-var x,y int
-x = 25
-y = 70
+var x,y int = 25,50
 	fmt.Println(name)
 	fmt.Println(age)
 	fmt.Println(x,y)
